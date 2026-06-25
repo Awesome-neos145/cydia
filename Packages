@@ -1,0 +1,15 @@
+Package: com.awes145.choices
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: awes145 <paway723@gmail.com>
+Depends: firmware (<< 5.0)
+Filename: debs/com.awes145.choices_1.1-1_iphoneos-arm.deb
+Size: 3174
+MD5sum: 4c7d9cbfa86da8428b7511d96a983a59
+SHA1: 48e4e62507dfc3fb5acd0bee65b52216ca7f40f7
+SHA256: 9f991fbe6a66d43b97933b9c67c228a1ecfb0f2ad72c3c59eee7cab154a8c6b1
+Section: Games
+Description: Pick the right number 20 times in a row to win.
+Author: awes145 <paway723@gmail.com>
+Dev: awes145
+Name: Choices
