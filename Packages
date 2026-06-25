@@ -13,6 +13,8 @@ Description: Pick the right number 20 times in a row to win.
 Author: awes145 <paway723@gmail.com>
 Dev: awes145
 Name: Choices
+Depiction: https://awes145.com/cydia/depictions/com.awes145.choices/index.html
+Icon: https://awes145.com/cydia/depictions/com.awes145.choices/choices.png
 
 Package: com.awes145.choices
 Version: 1.1-2
@@ -29,6 +31,8 @@ Description: Pick the right number 20 times in a row to win.
 Author: Ian Mathews <paway723@gmail.com>
 Dev: awes145
 Name: Choices
+Depiction: https://awes145.com/cydia/depictions/com.awes145.choices/index.html
+Icon: https://awes145.com/cydia/depictions/com.awes145.choices/choices.png
 
 Package: com.awes145.choices
 Version: 1.1-3
@@ -46,3 +50,4 @@ Author: Ian Mathews <paway723@gmail.com>
 Dev: awes145
 Name: Choices
 Depiction: https://awes145.com/cydia/depictions/com.awes145.choices/index.html
+Icon: https://awes145.com/cydia/depictions/com.awes145.choices/choices.png
