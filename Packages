@@ -29,3 +29,21 @@ Description: Pick the right number 20 times in a row to win.
 Author: Ian Mathews <paway723@gmail.com>
 Dev: awes145
 Name: Choices
+
+Package: com.awes145.choices
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: Ian Mathews <paway723@gmail.com>
+Depends: firmware (>= 2.0), firmware (<=10.3.4)
+Filename: debs/com.awes145.choices_1.1-3_iphoneos-arm.deb
+Size: 6808
+MD5sum: 24583a4942c57012ac4b88509adfe9d7
+SHA1: 2a9d57f2c1cd79e976c8c75565c2de8baeb6c503
+SHA256: 1bfc6cf5d541243b2233709a61641506f2e04c386032734d82d6811910ae2227
+Section: Games
+Description: Pick the right number 20 times in a row to win.
+Author: Ian Mathews <paway723@gmail.com>
+Dev: awes145
+Name: Choices
+Depiction: https://awes145.com/cydia/depictions/com.awes145.choices
+Icon: https://awes145.com/cydia/depictions/com.awes145.choices/choices.png
