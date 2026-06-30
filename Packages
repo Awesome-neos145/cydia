@@ -51,3 +51,21 @@ Dev: awes145
 Name: Choices
 Depiction: https://awes145.com/cydia/depictions/com.awes145.choices/index.html
 Icon: https://awes145.com/cydia/depictions/com.awes145.choices/choices.png
+
+Package: com.awes145.choices
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Ian Mathews <paway723@gmail.com>
+Depends: firmware (>= 2.0), firmware (<=10.3.4)
+Filename: debs/com.awes145.choices_1.2_iphoneos-arm.deb
+Size: 7016
+MD5sum: c2d551fdca290583f10a637e22f13b24
+SHA1: 6dee1d7a36795004e0c14429162cd1bafc856b6b
+SHA256: f5636c284ddc2d77411c298c105fbafc61b41cf4f015ea04de8b04bfe598c22d
+Section: Games
+Description: Pick the right number 20 times in a row to win.
+Author: Ian Mathews <paway723@gmail.com>
+Dev: awes145
+Name: Choices
+Depiction: https://awes145.com/cydia/depictions/com.awes145.choices/index.html
+Icon: https://awes145.com/cydia/depictions/com.awes145.choices/choices.png
